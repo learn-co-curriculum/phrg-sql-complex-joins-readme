@@ -7,3 +7,5 @@ languages:
   - sql
 resources: 0
 parent_template: git@github.com:learn-co-curriculum/phrg-sql-complex-joins-readme.git
+
+parent_template: git@github.com:learn-co-curriculum/phrg-sql-complex-joins-readme.git
