@@ -277,6 +277,10 @@ id    teacher_name   id      name     teacher_id
 NULL	 NULL	     6		 Alexis	     NULL
 ```
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sql-complex-joins-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sql-complex-joins-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <a href='https://learn.co/lessons/sql-complex-joins-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
 
 <p data-visibility='hidden'>PHRG Complex Joins in SQL</p>
